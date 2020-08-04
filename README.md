@@ -1,2 +1,7 @@
 # forikify
-web app to search recipes and show results, fetches data from forkify API
+fetches data from forkify API
+## Features:
+* Search for recipes
+* select a recipe to see ingredients, servings, and more
+* Add recipes to wishlist
+* Add ingredients to shopping list
