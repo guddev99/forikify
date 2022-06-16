@@ -1,7 +1,7 @@
 ## Visit Here : 
 https://recipe-app-bs.netlify.app/
 
-# forikify
+## forikify
 fetches data from forkify API
 
 ## Features:
